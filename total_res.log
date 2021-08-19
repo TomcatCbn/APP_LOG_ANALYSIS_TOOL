@@ -1,0 +1,9 @@
+
+**************************************************************************
+	This is a tool, which helps to analyse meminfo and cold start.       
+	Please pass params mode to decide which analysis mode you want to use         
+**************************************************************************
+value of file path is 
+value of dir path is ../faw/
+value of filter key word is 
+not dir,  ../faw/
